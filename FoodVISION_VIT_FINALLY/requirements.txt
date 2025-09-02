@@ -1,0 +1,6 @@
+gradio>=4.31.0
+torch
+torchvision
+timm
+Pillow
+matplotlib
